@@ -6,4 +6,4 @@
 
 
 ### Edge
-1. (New Tab)[edge://newtab]
+1. (New Tab)[https://newtab]

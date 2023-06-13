@@ -1,2 +1,9 @@
 # Kiosk-Bypass
-Bits and bobs
+
+
+## Open to be used for Kiosk Bypass
+
+
+
+### Edge
+1. (New Tab)[edge://newtab]

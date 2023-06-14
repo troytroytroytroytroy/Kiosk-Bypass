@@ -21,6 +21,8 @@
 
 
 ### Other Protocols
+Below protocols force to open default apps or at least the "Open With" window. Opening `Microsoft Edge` should be a big help already.
+
 Source: [Pentest Diaries](http://pentestdiary.blogspot.com/2017/12/kiosk-breakout-cheatsheet.html)
 
 1. [Callto](Callto://1.1.1.1)

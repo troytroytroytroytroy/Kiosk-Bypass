@@ -8,13 +8,6 @@
 
 **NOTE** : Click on each URL to attempted
 
-<base target="_blank">
-<script>
-   var links = document.links;
-for (var i = 0; i < links.length; i++) {
-     links[i].target = "_blank";
-}
-</script>
    
 * [Reload Page](javascript:window.location.reload())
 * [Back](javascript:history.back())
@@ -156,3 +149,134 @@ Source: [Pentest Diaries](http://pentestdiary.blogspot.com/2017/12/kiosk-breakou
 1. [Quicktime](Quicktime://1.1.1.1)
 1. [smb](smb://1.1.1.1)
 1. [ftp](ftp://1.1.1.1)
+1. [tel](tel://1.1.1.1)
+
+
+## TL;DR (Of course it's at the bottom)
+* **SKIP** and automate all of the above
+* Copy paste the long list below then visit: [Brianh2's Multiple URL opener GitHub Page](https://brianh2.github.io/multiple-url-opener/)
+    * Once on the page, parameters would be:
+         * `Delay (in seconds) between opening each URL: 0`
+         * `Delay (in seconds) between closing each tab: 1800`
+
+```
+edge://flags/
+edge://settings/
+edge://newtab/
+edge://about
+edge://accessibility
+edge://app-service-internals
+edge://app-settings
+edge://application-guard-internals
+edge://apps
+edge://attribution-internals
+edge://augloop-internals
+edge://autofill-internals
+edge://blob-internals
+edge://bluetooth-internals
+edge://collected-cookies-dialog
+edge://compat
+edge://components
+edge://conflicts
+edge://connectors-internals
+edge://crashes
+edge://credits
+edge://data-viewer
+edge://device-log
+edge://discards
+edge://download-internals
+edge://downloads
+edge://edge-dlp-internals
+edge://edge-urls
+edge://extensions
+edge://extensions-internals
+edge://favorites
+edge://floc-internals
+edge://gcm-internals
+edge://gpu
+edge://help
+edge://histograms
+edge://history
+edge://history-clusters-internals
+edge://indexeddb-internals
+edge://inspect
+edge://interstitials
+edge://invalidations
+edge://launch-source
+edge://local-state
+edge://mam-internals
+edge://management
+edge://media-engagement
+edge://media-internals
+edge://metrics-internals
+edge://nacl
+edge://net-export
+edge://net-internals
+edge://network-errors
+edge://ntp-tiles-internals
+edge://omnibox
+edge://optimization-guide-internals
+edge://password-manager
+edge://password-manager-internals
+edge://policy
+edge://predictors
+edge://prefs-internals
+edge://print
+edge://private-aggregation-internals
+edge://process-internals
+edge://profile-internals
+edge://push-internals
+edge://quota-internals
+edge://sandbox
+edge://serviceworker-internals
+edge://signin-internals
+edge://site-engagement
+edge://suggest-internals
+edge://super-resolution-popup
+edge://sync-internals
+edge://system
+edge://tab-search.top-chrome
+edge://terms
+edge://topics-internals
+edge://tracing
+edge://translate-internals
+edge://ukm
+edge://usb-internals
+edge://user-actions
+edge://version
+edge://web-app-internals
+edge://webrtc-internals
+edge://webrtc-logs
+ms-settings:controlcenter
+bingmaps:
+ms-drive-to:
+ms-walk-to:
+mailto:
+ms-call:
+ms-chat:
+ms-people:
+ms-photos:
+ms-settings:
+ms-store:
+ms-tonepicker:
+ms-yellowpage:
+msnweather:
+microsoft-edge:
+Callto://1.1.1.1
+Gopher://1.1.1.1
+HCP://1.1.1.1
+Telnet://1.1.1.1
+TN3270://1.1.1.1
+Rlogin://1.1.1.1
+LDAP://1.1.1.1
+News://1.1.1.1
+Mailto://1.1.1.1
+MMS://1.1.1.1
+SKYPE://1.1.1.1
+SIP://1.1.1.1
+Play://1.1.1.1
+Steam://1.1.1.1
+Quicktime://1.1.1.1
+smb://1.1.1.1
+ftp://1.1.1.1
+```

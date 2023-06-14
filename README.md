@@ -12,6 +12,8 @@
 * [Back](javascript:history.back())
 
 ### Edge URLs
+* Clicking the URLs in this section is not likely to work. Better to "Copy as link" and enter in the URL if present.
+* Since URL bar is present anyway, better just type `edge://edge-urls` and click on everything.
 1. [Flags](edge://flags/)
 1. [Settings](edge://settings/)
 1. [New Tab](edge://newtab/)

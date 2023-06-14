@@ -8,6 +8,8 @@
 
 **NOTE** : Click on each URL to attempted
 
+<base target="_blank">
+
 * [Reload Page](javascript:window.location.reload())
 * [Back](javascript:history.back())
 

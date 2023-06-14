@@ -9,7 +9,13 @@
 **NOTE** : Click on each URL to attempted
 
 <base target="_blank">
-
+<script>
+   var links = document.links;
+for (var i = 0; i < links.length; i++) {
+     links[i].target = "_blank";
+}
+</script>
+   
 * [Reload Page](javascript:window.location.reload())
 * [Back](javascript:history.back())
 

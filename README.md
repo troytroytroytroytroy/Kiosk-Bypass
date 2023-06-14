@@ -107,6 +107,24 @@
 ### Windows Settings
 1. [Settings](ms-settings:controlcenter)
 
+### Windows URI Schemes
+Source: [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/launch-resume/launch-default-app#uri-schemes)
+1. [bingmaps](bingmaps:)
+1. [ms-drive-to](ms-drive-to:)
+1. [ms-walk-to](ms-walk-to:)
+1. [http](http:)
+1. [mailto](mailto:)
+1. [ms-call](ms-call:)
+1. [ms-chat](ms-chat:)
+1. [ms-people](ms-people:)
+1. [ms-photos](ms-photos:)
+1. [ms-settings](ms-settings:)
+1. [ms-store](ms-store:)
+1. [ms-tonepicker](ms-tonepicker:)
+1. [ms-yellowpage](ms-yellowpage:)
+1. [msnweather](msnweather:)
+1. [microsoft-edge](microsoft-edge:)
+
 
 ### Other Protocols
 Below protocols force to open default apps or at least the "Open With" window. Opening `Microsoft Edge` should be a big help already.

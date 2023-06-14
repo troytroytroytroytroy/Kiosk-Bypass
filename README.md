@@ -8,8 +8,8 @@
 
 **NOTE** : Click on each URL to attempted
 
-[Reload Page](javascript:window.location.reload())
-[Back](javascript:history.back())
+* [Reload Page](javascript:window.location.reload())
+* [Back](javascript:history.back())
 
 ### Edge URLs
 1. [Flags](edge://flags/)

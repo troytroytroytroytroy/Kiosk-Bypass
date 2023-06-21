@@ -155,6 +155,7 @@ Source: [Pentest Diaries](http://pentestdiary.blogspot.com/2017/12/kiosk-breakou
 ## TL;DR (Of course it's at the bottom)
 * **SKIP** and automate all of the above
 * Copy paste the long list below then visit: [Brianh2's Multiple URL opener GitHub Page](https://brianh2.github.io/multiple-url-opener/)
+* This url has target=_blank  [Brianh2's Multiple URL opener GitHub Page](https://brianh2.github.io/multiple-url-opener/){:target="_blank"}
     * Once on the page, parameters would be:
          * `Delay (in seconds) between opening each URL: 0`
          * `Delay (in seconds) between closing each tab: 1800`
